@@ -9,23 +9,22 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
 ### Step 1:
-import numpy as np
+First,we want to import numpy,then import sys,assume a variable.
 ### Step 2:
-import sys
+For gaussian elimination method, we want to make 2nd and 3rd column zero.
 ### Step 3:
-get input from the user
+For that we want to make a range accorting to our program output.
 ### Step 4:
-calculate the X0, X1 and X2 values by Gaussian elimination.
+Then print the program with correct form then the output will display.
 ### Step 5:
-print the values
-### Step 6:
-End the program
+End the program.
 ## Program:
 ```
-'''Program to solve a matrix using Gaussian elimination without partial pivoting.
+Program to solve a matrix using Gaussian elimination without partial pivoting.
 Developed by: TITUS RATNA KUMAR KARIVELLA 
-RegisterNumber: 212224230292 
-'''
+RegisterNumber: 212224230292
+```
+``` 
 import numpy as np 
 import sys
 
